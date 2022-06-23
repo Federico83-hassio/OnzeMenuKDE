@@ -97,7 +97,7 @@ msgstr "Numero di linee (griglia principale)"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Icons smooth"
-msgstr ""
+msgstr "Icone piatte"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Size of icons"
